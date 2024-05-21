@@ -1,12 +1,11 @@
-# 5ModChallenge
-Module 5 Challenge
-# Work Day Scheduler Starter Code
+# Work-Day-Scheduler
+5th Challenge
 
-Deployed: https://dannysanchez03.github.io/5ModChallenge/
+Deployed: [here](https://dannysanchez03.github.io/Work-Day-Scheduler/)
 
 ## Description
 
-In this Module 5 Challenge we were given starter code for the html and css. We had to add logic into the java script file to save data to the planner.
+In this 5th Challenge I had to make a planner for work that can save plans to your local stoage, I was given html and css for the website however I had to implement all the fucntionality using J-Query. Could use a little more work with the UI elements.
 
 ## Installation
 
