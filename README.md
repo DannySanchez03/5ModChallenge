@@ -5,7 +5,7 @@ Deployed: [here](https://dannysanchez03.github.io/Work-Day-Scheduler/)
 
 ## Description
 
-In this 5th Challenge I had to make a planner for work that can save plans to your local stoage, I was given html and css for the website however I had to implement all the fucntionality using J-Query. Could use a little more work with the UI elements.
+In this 5th Challenge I had to make a planner for work that can save plans to your local stoage, I was given html and css for the website however I had to implement all the fucntionality using J-Query. Could use a little more work with the UI elements. This challenge was to learn how to work with 3rd party API's.
 
 ## Installation
 
